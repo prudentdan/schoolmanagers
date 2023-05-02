@@ -13,6 +13,7 @@ Author URL: http://w3layouts.com
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 :root {
+  --primary-color:#164893 !important;
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
   --bs-purple: #6f42c1 --bs-pink: #d63384;
@@ -19096,7 +19097,7 @@ form.search-box {
 
 .w3l-banner:before {
   content: "";
-  background: rgba(103, 58, 183, 0.8);
+  background: #16489380;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -20345,7 +20346,7 @@ p.copy-footer-29 a:hover {
 
 .breadcrumb-bg-about:before {
   content: "";
-  background: rgba(103, 58, 183, 0.8);
+  background: #16489380;
   position: absolute;
   top: 0;
   bottom: 0;
