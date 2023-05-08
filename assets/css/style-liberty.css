@@ -19119,8 +19119,8 @@ form.search-box {
 }
 
 .banner-info-grid {
-  max-width: 750px;
-  margin: auto;
+  max-width: 850px;
+  margin: 0;
 }
 
 .w3l-banner p {
@@ -20280,6 +20280,14 @@ p.copy-footer-29 a:hover {
   background: var(--primary-color);
   border-radius: 0 4px 4px 0;
 }
+
+ footer .footer-contact{
+  color: #ababab;
+ }
+
+ footer .socialz span {
+ 
+ }
 
 @media (max-width: 991px) {
   .w3l-footer-29-main h6.footer-title-29 {
